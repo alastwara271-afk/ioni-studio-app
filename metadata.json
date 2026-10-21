@@ -1,0 +1,6 @@
+{
+  "name": "IONI Voice Studio",
+  "description": "Professional AI Creative Studio featuring AI Voice generation, YouTube Creator Academy, Video Editing Plan Generator, Freelance Academy, and AI Image & Chat tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
